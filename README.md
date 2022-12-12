@@ -37,6 +37,6 @@ Using the same training and test inputs as the support vector machine model, we 
 ## Tune-in Logistic Regression Model
 We build our strategy by using the 21 day and 115 day rolling windows to calculate the Fast and Slow Simple moving average of prices respectively. We changed the training period to 36 months with the remaining period being used to test our strategy. New strategy returns versus the baseline buy and hold strategy is shown below:
 
-![Base Strategy](Images/TuneinLRresult.PNG)
+![Base Strategy](https://github.com/AbuzarF/ML_Trading-Bot/blob/main/TuneinLRresult.PNG)
 
 It is clear from the above graph, our tuned Logistic Regression model produced great results over the period considered and significantly outperformed the baseline straregy.
