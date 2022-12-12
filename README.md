@@ -19,7 +19,7 @@ We can assess from the above that the asset performed well below par over the pe
 ## Support Vector Strategy with SMAs as the features
  We build our strategy by using the 4 day and 100 day rolling windows to calculate the Fast and Slow Simple moving average of prices respectively. The features were incorporated in X variables for Support vector classification model. And for y-variable we used the earlier strategy which generated a buy signal when the stock has a positive return for the current day and a sell signal when the stock has a negative return. The graphical reprewsentation of the strategy performance is shown below: 
 
-![Baseline Strategy](Images/SVCresult.PNG)
+![Baseline Strategy](https://github.com/AbuzarF/ML_Trading-Bot/blob/main/SVCresult.PNG)
 
 The above graph shows the strategy performed slightly better than a benchmark buy and hold strategy. Now we looked at using alternative models to derive a better strategy return than the SVM model.
 
