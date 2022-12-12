@@ -10,7 +10,7 @@ In this assignment we will be analyzing the price movement of a stock over the p
 ## Baseline Strategy
  In baseline strategy, we calculated percent change (returns) which generated a buy signal when the stock has a positive return for the current day and a sell signal when the stock has a negative return . Below is a graphical representation of the trategy returns.
 
-![Baseline Strategy](Images/BaselineStrategy.PNG)
+![Baseline Strategy](https://github.com/AbuzarF/ML_Trading-Bot/blob/main/BaselineStrategy.PNG)
 
 We can assess from the above that the asset performed well below par over the period considered.
 
