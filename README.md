@@ -28,7 +28,7 @@ The above graph shows the strategy performed slightly better than a benchmark bu
 ## Baseline Strategy with another classifier (Logistic Regression Model)
 Using the same training and test inputs as the support vector machine model, we then ran these inpus through a Logistic Regression classification machine learning model. Graphical rewpresentation of the results for this strategy against the baseline buy and hold strategy is shown below:
 
-![Baseline Strategy with LRM](Images\OriginalLRresult.PNG)
+![Baseline Strategy with LRM](https://github.com/AbuzarF/ML_Trading-Bot/blob/main/OriginalLRresult.png)
 
  The strategy performed very well until around mid 2020 then significantly underperformed for the rest of the period. Our next goal was to build on this and fine tune our model to produce higher returns.
 
